@@ -1,0 +1,7 @@
+{
+  "name": "Click Metronome Pro",
+  "description": "An advanced click metronome with a 16-step sequencer, customizable patterns, and a recording feature for desktop users. Create, save, and play back your rhythms with a variety of jazz and Afro-Cuban inspired presets.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
